@@ -1,0 +1,18 @@
+# Da Vinci Ceramics — Mosaic Tile Collection
+
+> A landing page concept for Da Vinci Ceramics' Mosaic Tile Collection for the Sri Lankan market.
+
+## Main page
+- https://your-vercel-domain.vercel.app/
+
+## About this page
+- The page introduces mosaic tile design inspiration and invites visitors to contact Da Vinci Ceramics.
+- Visitors should contact the company directly to verify current products, stock, dimensions, finishes, suitability, prices and installation requirements.
+- Gallery images in the assessment concept are illustrative inspiration images, not confirmed photos of Da Vinci Ceramics products.
+
+## Contact
+- Email: davinciceramics.digital@gmail.com
+- Website: https://www.davinciceramics.com
+
+## Important
+This file is a machine-readable orientation aid. It is not a formal search ranking factor or a guarantee of inclusion in AI-generated answers. Replace the example domain after deployment and keep information accurate.

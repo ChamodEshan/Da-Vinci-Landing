@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f5f1e9"/>
+  <rect x="760" y="0" width="440" height="630" fill="#e3ddcf"/>
+  <g fill="none" stroke="#8a8d75" stroke-width="2" opacity=".65">
+    <path d="M760 0V630M870 0V630M980 0V630M1090 0V630M1200 0V630M760 105H1200M760 210H1200M760 315H1200M760 420H1200M760 525H1200"/>
+  </g>
+  <circle cx="112" cy="112" r="34" fill="none" stroke="#6b7056" stroke-width="2"/>
+  <text x="112" y="119" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#6b7056">DV</text>
+  <text x="170" y="106" font-family="Arial,sans-serif" font-size="22" letter-spacing="5" fill="#252820">DA VINCI</text>
+  <text x="170" y="132" font-family="Arial,sans-serif" font-size="12" letter-spacing="7" fill="#6d7065">CERAMICS</text>
+  <text x="90" y="290" font-family="Georgia,serif" font-size="68" fill="#252820">Small details.</text>
+  <text x="90" y="370" font-family="Georgia,serif" font-size="68" font-style="italic" fill="#6b7056">Beautiful impact.</text>
+  <text x="92" y="440" font-family="Arial,sans-serif" font-size="18" letter-spacing="4" fill="#6d7065">THE MOSAIC COLLECTION</text>
+  <text x="92" y="570" font-family="Arial,sans-serif" font-size="14" letter-spacing="2" fill="#6d7065">DESIGN YOUR SPACE, YOUR WAY</text>
+</svg>
