@@ -149,7 +149,7 @@ export default function Home() {
 
       <section className="project-steps">
         <div className="section-wrap steps-inner">
-          <div className="section-kicker">LET'S MAKE A PLAN <span>— 03</span></div>
+          <div className="section-kicker">LET&apos;S MAKE A PLAN <span>— 03</span></div>
           <div className="section-heading">
             <h2>Your space.<br /><em>Your next step.</em></h2>
             <p>A simple starting point for getting from an idea to a product inquiry.</p>
@@ -185,7 +185,7 @@ export default function Home() {
           <a className="button button-light" href={contactUrl} target="_blank" rel="noreferrer">
             {isConfigured ? "Enquire on WhatsApp" : "Visit Da Vinci Ceramics"} <span aria-hidden="true">↗</span>
           </a>
-          {!isConfigured && <p className="setup-warning">Setup required: add the official WhatsApp number in your Vercel environment variables.</p>}
+          {!isConfigured && <p className="setup-warning">Setup required: add the official WhatsApp number in your Netlify environment variables.</p>}
           <p className="contact-email">Or email <a href="mailto:davinciceramics.digital@gmail.com">davinciceramics.digital@gmail.com</a></p>
         </div>
         <div className="contact-art" role="img" aria-label="Elegant neutral interior with natural material finishes">
